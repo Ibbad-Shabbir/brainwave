@@ -86,3 +86,7 @@
 .-rotate-360 {
   @apply rotate-[-360deg];
 }
+
+::selection {
+  color : rgb(230, 118, 137);
+}
