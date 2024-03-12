@@ -8,7 +8,11 @@ import smallSphere from "./4-small.png";
 import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
-import yourlogo from "./yourlogo.svg";
+import netflix from "./netflix.png";
+import google from "./google.png";
+import microsoft from "./microsoft.png";
+import chatgpt from "./chatgpt.png";
+import linkedin from "./linkedin.png";
 import homeSmile from "./home-smile.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -77,6 +81,10 @@ import twitter from "./socials/twitter.svg";
 
 export {
   brainwave,
+  linkedin,
+  google,
+  microsoft,
+  chatgpt,
   check,
   check2,
   loading1,
@@ -86,7 +94,7 @@ export {
   gradient,
   smallSphere,
   grid,
-  yourlogo,
+  netflix,
   homeSmile,
   file02,
   searchMd,
